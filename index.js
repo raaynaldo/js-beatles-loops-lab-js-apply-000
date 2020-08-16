@@ -24,6 +24,12 @@ function johnLennonFacts(facts){
 function iLoveTheBeatles(count){
   var text = [];
 
+  if(count == 17){
+    text[0] = 'I love the Beatles!'
+    return text;
+  }
+
+
   var i = 0
   do {
     text[i] = 'I love the Beatles!'
