@@ -28,7 +28,8 @@ function iLoveTheBeatles(count){
     text[0] = 'I love the Beatles!'
     return text;
   }
-  
+
+  console.log(count);
   var i = 0
   do {
     text[i] = 'I love the Beatles!'
