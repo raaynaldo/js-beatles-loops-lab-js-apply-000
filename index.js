@@ -23,7 +23,7 @@ function johnLennonFacts(facts){
 function iLoveTheBeatles(count){
   var text = [];
 
-  for (var i = 0; i < count; i++) {
-    array[i]
+  do-while (true) {
+
   }
 }
