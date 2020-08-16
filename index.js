@@ -29,7 +29,6 @@ function iLoveTheBeatles(count){
     return text;
   }
   
-  
   var i = 0
   do {
     text[i] = 'I love the Beatles!'
