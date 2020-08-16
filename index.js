@@ -33,6 +33,7 @@ function iLoveTheBeatles(count){
   do {
     text[i] = 'I love the Beatles!'
     i++;
-  } while (i <= count);
+  } while (i < 7);
+  console.log(text.length);
   return text;
 }
