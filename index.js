@@ -24,9 +24,11 @@ function johnLennonFacts(facts){
 function iLoveTheBeatles(count){
   var text = [];
 
+  var i = 0
   do {
-    
-  } while (true);
+    text[i] = 'I love the Beatles!'
+    i++;
+  } while (i < count);
 
   return text;
 }
